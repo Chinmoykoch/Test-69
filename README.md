@@ -1,6 +1,6 @@
 
 ---
-Chinmoy Koch
+Chinmoy Koch- Playboy
 # Project Collection
 
 Welcome to my project repository! 🚀 This collection features a variety of projects built using HTML, CSS, Bootstrap, and Javascript. The primary focus of these files is to showcase the practical implementation of these technologies in the form of exciting and interactive projects.
